@@ -1,0 +1,7 @@
+{
+  "name": "CapacitorCameraCodeReproduction",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
